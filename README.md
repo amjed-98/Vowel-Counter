@@ -1,5 +1,3 @@
 # vowel-counter
 counting vowel with js
-this is note
-this is a note2
-this is note 3
+https://amjed-98.github.io/vowel-counter/
